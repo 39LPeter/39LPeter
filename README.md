@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Mawia (39LPeter)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/39LPeter/39LPeter/main/assets/banner-gradient.gif" width="100%" alt="Purple gradient developer banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:B84BFF,100:FF59C7&height=220&section=header&text=Mawia%20%7C%2039LPeter&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+    width="100%"
+    alt="Mawia - purple gradient developer banner"
+  />
 </p>
 
 <h1 align="center">Building Digital Products with Code & Creativity ✨</h1>
