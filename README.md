@@ -56,13 +56,16 @@ I'm a software developer and creative designer passionate about turning ideas in
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,idea,maven" alt="Databases and development tools" />
 </p>
 
-### Design & Creative Tools
+## 🎨 My Creative Design Portfolio
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,pr,ae,canva" alt="Design and creative tools" />
-</p>
+I create visual experiences through poster design, branding, print layouts, colour studies, and motion graphics.
 
----
+Explore my selected creative work in my interactive portfolio.
+
+[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE-MY%20DESIGN%20PORTFOLIO-B84BFF?style=for-the-badge\&logo=figma\&logoColor=white)](https://39LPeter.github.io/poster-portfolio/)
+
+[GitHub](https://github.com/39LPeter) · [Design Assets](https://github.com/39LPeter/Portofolio-graphicdesigner-/tree/main/assets)
+
 
 ## 📈 My GitHub Contributions
 
