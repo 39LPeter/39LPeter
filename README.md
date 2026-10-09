@@ -159,7 +159,16 @@ I enjoy combining visual communication with software development to create exper
 * Design systems and reusable components
 * Visual storytelling and digital experiences
 
-Explore my work in the [design portfolio repository](https://github.com/39LPeter/Portfolio-graphicdesigner-).
+
+## 🎨 My Poster Design Portfolio
+
+Explore my creative work, poster designs, and visual experiments.
+
+<p align="center">
+  <a href="https://39LPeter.github.io/poster-portfolio/">
+    <img src="https://img.shields.io/badge/Explore-My%20Poster%20Gallery-B84BFF?style=for-the-badge&logo=figma&logoColor=white" alt="Explore my poster gallery" />
+  </a>
+</p>
 
 ---
 
@@ -188,6 +197,14 @@ I'm interested in learning, collaborating on meaningful projects, and connecting
 
 <p align="center">
   <i>"Code with purpose. Design with intention. Keep learning."</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+    width="140"
+    alt="Cat GIF"
+  />
 </p>
 
 <p align="center">
